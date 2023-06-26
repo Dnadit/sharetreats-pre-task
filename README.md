@@ -4,6 +4,10 @@
 ## 폴더구조
 - 각 폴더의 숫자는 사전과제 2번째 3번째라는 뜻입니다.
 
+## Flow-Chart
+- [2번과제 빠칭코 상품 뽑기 서비스](https://github.com/Dnadit/sharetreats-pre-task/blob/master/sharetreats-pretask-2/docs/flowChart-2.pdf)
+- [3번과제 빠칭코 상품 뽑기 서비스](https://github.com/Dnadit/sharetreats-pre-task/blob/master/sharetreats-pretask-3/docs/flowChart-3.pdf)
+
 ## 실행환경
 - JDK 17
 
