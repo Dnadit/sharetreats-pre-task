@@ -6,7 +6,7 @@
 
 ## Flow-Chart
 - [2번과제 빠칭코 상품 뽑기 서비스](https://github.com/Dnadit/sharetreats-pre-task/blob/master/sharetreats-pretask-2/docs/flowChart-2.pdf)
-- [3번과제 빠칭코 상품 뽑기 서비스](https://github.com/Dnadit/sharetreats-pre-task/blob/master/sharetreats-pretask-3/docs/flowChart-3.pdf)
+- [3번과제 회사 조직(부서) 인원수 파악 서비스](https://github.com/Dnadit/sharetreats-pre-task/blob/master/sharetreats-pretask-3/docs/flowChart-3.pdf)
 
 ## 실행환경
 - JDK 17
